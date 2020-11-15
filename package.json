@@ -27,7 +27,6 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "heroku-postbuild": "craco build ",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
